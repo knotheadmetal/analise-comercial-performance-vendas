@@ -1,8 +1,8 @@
 # Dashboard Comercial - Performance de Vendas
 
-Este repositório contém um dashboard em Power BI focado na análise de métricas de vendas comerciais. A base de dados utilizada, **dados_comerciais.xlsx**, oferece informações detalhadas sobre produtos, categorias, fabricantes, lojas, cidades, estados, vendedores e valores de venda. O arquivo principal do Power BI, **dashboard-performance-vendas.pbix**, apresenta visualizações interativas para explorar insights sobre o desempenho das vendas.
+Este repositório contém um dashboard em Power BI focado na análise de métricas de vendas comerciais. A base de dados utilizada, **dados_comerciais.xlsx**, oferece informações detalhadas sobre produtos, categorias, fabricantes, lojas, cidades, estados, vendedores e valores de venda. O arquivo principal do Power BI, **comercial-performance-vendas.pbix**, apresenta visualizações interativas para explorar insights sobre o desempenho das vendas.
 
-- **Visualização Interativa do Dashboard:** [Clique aqui para acessar](URL_DO_DASHBOARD)
+- **Visualização Interativa do Dashboard:** [Clique aqui para acessar]((https://app.powerbi.com/view?r=eyJrIjoiZmFlNjEzZmItNGY4MC00OWY2LThkMmMtMWQ3NzZjNTAyMzk1IiwidCI6ImYxNDZiYjhhLTBiOTQtNGY1MC1hZmExLTNmYzc4Mjk0MjE1NSJ9))
 
 ---
 
@@ -160,6 +160,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## Contato
 
-- **LinkedIn:** [Seu Nome](LINKEDIN_URL)
-- **Portfólio:** [GitHub](GITHUB_URL)
-- **E-mail:** [seu-email@example.com](mailto:seu-email@example.com)
+- **LinkedIn:** [(LINKEDIN_URL](https://www.linkedin.com/in/rafaelsantosti/))
+- **Portfólio:** [(GITHUB_URL](https://github.com/knotheadmetal))
+- **E-mail:** [rafaelsantosti@outlook.com)
