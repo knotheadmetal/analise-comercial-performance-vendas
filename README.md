@@ -1,4 +1,4 @@
-# Dashboard Comercial - Performance de Vendas
+# Dashboard Comercial - Performance de Vendas 
 
 Este repositório contém um dashboard em Power BI focado na análise de métricas de vendas comerciais. A base de dados utilizada, **dados_comerciais.xlsx**, oferece informações detalhadas sobre produtos, categorias, fabricantes, lojas, cidades, estados, vendedores e valores de venda. O arquivo principal do Power BI, **comercial-performance-vendas.pbix**, apresenta visualizações interativas para explorar insights sobre o desempenho das vendas.
 
